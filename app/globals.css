@@ -1,0 +1,36 @@
+@import url("./../public/css/plugins.css");
+@import url("./../public/css/style.css");
+
+html,
+body {
+    scroll-behavior: smooth;
+}
+
+.ReactCollapse--collapse {
+    transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.menu-link {
+    background: transparent;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px;
+    line-height: 1;
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #000 !important;
+    font-weight: 600;
+    width: 100%;
+}
+
+@media (min-width: 768px) {
+    .sticky-social {
+        position: sticky !important;
+    }
+    .social-links-scroll {
+        margin-top: -22.5rem !important;
+        margin-bottom: 16rem;
+    }
+}
