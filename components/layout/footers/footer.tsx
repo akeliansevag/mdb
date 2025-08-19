@@ -44,9 +44,9 @@ const Footer = () => {
                                                 <li>
                                                     <Link
                                                         className="email"
-                                                        href="mailto:info@MDBco.com"
+                                                        href="mailto:info@mdb-tech.net"
                                                     >
-                                                        info@MDBco.com
+                                                        info@mdb-tech.net
                                                     </Link>
                                                 </li>
                                                 <li>
