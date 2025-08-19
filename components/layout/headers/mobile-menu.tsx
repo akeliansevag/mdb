@@ -90,7 +90,7 @@ const MobileMenu = ({ isOpen, onClose }: MobileMenuProps) => {
                         <div className="mobile-logo">
                             <a href="/" onClick={onClose}>
                                 <img
-                                    src="/images/logo-111.svg"
+                                    src="/images/logo-mdb.svg"
                                     alt="logo"
                                     width="177"
                                 />
