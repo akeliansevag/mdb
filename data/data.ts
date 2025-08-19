@@ -653,7 +653,7 @@ export const services: ServiceType[] = [
     {
         title: "Messaging",
         description:
-            "Celluloid enables large-scale user engagement with A2P and bulk SMS, powered by smart routing and seamless CRM integration.",
+            "MDB enables large-scale user engagement with A2P and bulk SMS, powered by smart routing and seamless CRM integration.",
         icon: "/images/service/service-icon-1.svg",
         delay: "0.30",
     },

@@ -49,7 +49,7 @@ const PreloaderContent = () => {
                         <Image
                             height={29}
                             width={177}
-                            src="/images/logo-white.webp"
+                            src="/images/logo-mdb-white.svg"
                             alt="preloader logo"
                             className="img-fluid"
                         />

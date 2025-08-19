@@ -11,8 +11,8 @@ const instrumentsans = Instrument_Sans({
 
 export const metadata: Metadata = {
     title: {
-        default: "Celluloid",
-        template: "%s | Celluloid",
+        default: "MDB",
+        template: "%s | MDB",
     },
     description: "Smarter Networks. Faster Innovation.",
 };

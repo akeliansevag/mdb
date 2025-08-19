@@ -44,9 +44,9 @@ const Footer = () => {
                                                 <li>
                                                     <Link
                                                         className="email"
-                                                        href="mailto:info@celluloidco.com"
+                                                        href="mailto:info@MDBco.com"
                                                     >
-                                                        info@celluloidco.com
+                                                        info@MDBco.com
                                                     </Link>
                                                 </li>
                                                 <li>
@@ -168,7 +168,7 @@ const Footer = () => {
                             <div className="col-12">
                                 <div className="footer__bottom-content row-padding-bottom">
                                     <div className="copyright-text text-color-white">
-                                        All rights reserved — 2025 © Celluloid
+                                        All rights reserved — 2025 © MDB
                                     </div>
                                     <Link
                                         href="#"

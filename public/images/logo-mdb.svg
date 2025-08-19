@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 714.63 159.03">
+  <!-- Generator: Adobe Illustrator 29.9.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 14)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#radial-gradient);
+      }
+
+      .st1 {
+        fill: url(#linear-gradient);
+      }
+
+      .st2 {
+        fill: #e92327;
+      }
+
+      .st3 {
+        fill: url(#radial-gradient1);
+      }
+
+      .st4 {
+        fill: url(#radial-gradient3);
+      }
+
+      .st5 {
+        fill: url(#radial-gradient2);
+      }
+
+      .st6 {
+        fill: #f3f3f3;
+      }
+
+      .st7 {
+        fill: #0a1b46;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="405.64" y1="17.6" x2="443.68" y2="17.6" gradientTransform="translate(0 162) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".18" stop-color="#00b3f0"/>
+      <stop offset=".92" stop-color="#0058e4"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="21.76" cy="26.38" fx="21.76" fy="26.38" r="22.33" gradientTransform="translate(0 162) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".18" stop-color="#00b3f0"/>
+      <stop offset=".92" stop-color="#0058e4"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient1" cx="21.74" cy="139.11" fx="21.74" fy="139.11" r="22.32" gradientTransform="translate(0 162) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".18" stop-color="#00b3f0"/>
+      <stop offset=".92" stop-color="#0058e4"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient2" cx="131.59" cy="26.37" fx="131.59" fy="26.37" r="22.33" gradientTransform="translate(0 162) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".18" stop-color="#00b3f0"/>
+      <stop offset=".92" stop-color="#0058e4"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient3" cx="131.59" cy="139.11" fx="131.59" fy="139.11" r="22.33" gradientTransform="translate(0 162) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".18" stop-color="#00b3f0"/>
+      <stop offset=".92" stop-color="#0058e4"/>
+    </radialGradient>
+  </defs>
+  <polygon class="st7" points="290.14 58.97 339.32 0 372.44 0 372.44 159.03 334.36 159.03 334.36 59.75 293.01 109.6 287.29 109.6 245.98 59.75 245.98 159.03 207.86 159.03 207.86 0 240.95 0 290.14 58.97"/>
+  <path class="st7" d="M586.16,0h66.16c15.76,0,28.16,3.93,37.19,11.83,8.98,7.89,13.5,17.2,13.5,27.97,0,13.78-6.98,24.37-20.93,31.74,10.52,2.88,18.56,7.99,24.17,15.24,5.59,7.31,8.38,15.8,8.38,25.54,0,13.81-4.55,25.04-13.7,33.68-9.12,8.69-22.55,13.03-40.29,13.03h-74.47V0h0ZM624.27,29.14v34.03h19.94c6.13,0,10.9-1.63,14.35-4.89,3.42-3.28,5.15-7.37,5.15-12.31s-1.73-8.87-5.15-12.06c-3.45-3.19-8.22-4.77-14.35-4.77,0,0-19.94,0-19.94,0ZM624.27,92.3v37.57h21.45c10.17,0,17.46-1.46,21.92-4.4,4.44-2.89,6.68-7.98,6.68-15.16,0-5.56-2.13-9.93-6.37-13.17-4.23-3.24-9.88-4.84-16.98-4.84h-26.71,0Z"/>
+  <path class="st7" d="M534.92,22.26c-15.16-14.83-35.75-22.26-61.83-22.26h-67.45v112.88h38.1V29.13h24.4c16.23,0,28.63,4.5,37.31,13.49,8.64,9.01,12.97,21.32,12.97,36.94s-4.28,27.26-12.82,36.48c-8.54,9.19-20.86,13.83-37.01,13.83h-8.7v29.16h8.94c28.47,0,50.39-7.07,65.74-21.12,15.38-14.09,23.06-33.45,23.06-58.11s-7.58-42.71-22.71-57.54"/>
+  <path class="st2" d="M600.68,129.77h-38.03,38.03,0Z"/>
+  <rect class="st6" x="600.75" y="112.9" width="2.95" height="3.81"/>
+  <rect class="st1" x="405.64" y="129.77" width="38.04" height="29.26"/>
+  <path class="st0" d="M0,112.73v45.79h43.52c-9.36-4.21-18.07-10.23-25.65-18.1-7.85-8.2-13.82-17.6-17.87-27.69"/>
+  <path class="st3" d="M43.47,0H0v45.78c4.04-10.08,10.02-19.47,17.87-27.65C25.45,10.22,34.17,4.21,43.47,0"/>
+  <path class="st5" d="M153.35,112.73c-4.07,10.09-10,19.49-17.86,27.69-7.61,7.87-16.34,13.89-25.66,18.1h43.52v-45.79Z"/>
+  <path class="st4" d="M153.35,45.78V0h-43.52c9.32,4.2,18.06,10.21,25.66,18.12,7.86,8.19,13.79,17.57,17.86,27.66"/>
+  <path class="st7" d="M76.66,55.11c-6.21,0-12.05,2.52-16.43,7.06-9.1,9.43-9.1,24.76,0,34.16,4.38,4.57,10.22,7.09,16.43,7.09s12.04-2.52,16.43-7.09,6.79-10.61,6.79-17.08-2.4-12.54-6.79-17.09c-4.4-4.54-10.24-7.06-16.43-7.06"/>
+</svg>
